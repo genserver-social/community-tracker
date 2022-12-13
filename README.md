@@ -48,13 +48,13 @@ The block list will be made available to instance members who request it.
 
 The current domain block list is the combination of blocks pulled and researched from similar tech focused instances and some additional domains found along the way.
 
-Instances with feeds containing unmoderated hate speech, apologia for hate speech, transphobic or homophobic content, illegal/copyrighted content, sexism, racism, fascist apologia, excessive/pointless violent content/gore, loli, pornograpy depicting minors do not fit within the goal of "building a friendly and inviting online community" and as such are blocked.  This is a non-exhaustive list and ultimate decisions will rest with the moderation team.
+Instances with feeds containing unmoderated hate speech, apologia for hate speech, transphobic or homophobic content, illegal/copyrighted content, sexism, racism, fascist apologia, excessive/pointless violent content/gore, loli, pornograpy depicting minors, etc do not fit within the goal of "building a friendly and inviting online community" and as such are blocked.  This is a non-exhaustive list and ultimate decisions will rest with the moderation team.
 
 The block list is not static, we are happy to re-federate servers that are making a good faith effort to be a good neighbor.
 
 If you are an admin and you believe your domain is blocked in error.  Please email us at `admin [at] genserver [dot] social`.
 
-If you are a user at GenServer Social and have concerns about a domain, please message a moderator or email us at `admin [at] gensever [dot] social`.
+If you are a user at GenServer Social and have concerns about a domain, please message a moderator or email us at `admin [at] genserver [dot] social`.
 
 
 ## Current Todos:
