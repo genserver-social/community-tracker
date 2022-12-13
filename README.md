@@ -29,9 +29,9 @@ You will get one warning before an action is taken, moderation actions taken wil
 2. No racism, sexism, homophobia, transphobia, xenophobia, or casteism.
 3. No incitement of violence or promotion of violent ideologies.
 4. No harassment, dogpiling or doxxing of other users (if someone asks you to disengage, please do so).
-5. No illegal content (this server is hosted in USA and will abide by US law)
+5. No illegal content (this server is hosted in USA and will abide by US law, including DMCA/Copyright law).
 6. No impersonating other people or creating multiple accounts to circumvent bans / mutes / other forms of moderation.
-7. If you are a brand/company, please be mindful that there is no algorithm here: don't flood the feed with marketing. Please do share useful things that are generally helpful and engage with the community, but this isn't the place for repeatedly sharing your company's materials.
+7. If you are a brand/company, please be mindful that there is no algorithm here: do not flood the public feed with marketing. Please do share useful things that are generally helpful and engage with the community, but this isn't the place for repeatedly sharing your company's materials.
 8. Right now we are not open to bots, you may follow and RT bots all you like, but signing one up to GenServer Social is not allowed for the time being.
 
 
@@ -48,7 +48,7 @@ The block list will be made available to instance members who request it.
 
 The current domain block list is the combination of blocks pulled and researched from similar tech focused instances and some additional domains found along the way.
 
-Instances with feeds containing unmoderated hate speech, apologia for hate speech, transphobic or homophobic content, illegal/copyrighted content, sexism, racism, fascist apologia, excessive/pointless violent content/gore do not fit within the goal of "building a friendly and inviting online community" and as such are blocked.
+Instances with feeds containing unmoderated hate speech, apologia for hate speech, transphobic or homophobic content, illegal/copyrighted content, sexism, racism, fascist apologia, excessive/pointless violent content/gore, loli, pornograpy depicting minors do not fit within the goal of "building a friendly and inviting online community" and as such are blocked.  This is a non-exhaustive list and ultimate decisions will rest with the moderation team.
 
 The block list is not static, we are happy to re-incorporate servers that are making a good faith effort to be a good neighbor.
 
