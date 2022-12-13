@@ -31,7 +31,7 @@ You will get one warning before an action is taken, moderation actions taken wil
 4. No harassment, dogpiling or doxxing of other users (if someone asks you to disengage, please do so).
 5. No illegal content (this server is hosted in USA and will abide by US law, including DMCA/Copyright law).
 6. No impersonating other people or creating multiple accounts to circumvent bans / mutes / other forms of moderation.
-7. If you are a brand/company, please be mindful that there is no algorithm here: do not flood the public feed with marketing. Please do share useful things that are generally helpful and engage with the community, but this isn't the place for repeatedly sharing your company's materials.
+7. If you are a brand/company, please be mindful that there is no algorithm here: please do not flood the public feed with marketing. Absolutely do share useful things that are helpful and engage with the community.
 8. Right now we are not open to bots, you may follow and RT bots all you like, but signing one up to GenServer Social is not allowed for the time being.
 
 
