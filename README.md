@@ -48,7 +48,7 @@ The block list will be made available to instance members who request it.
 
 The current domain block list is the combination of blocks pulled and researched from similar tech focused instances and some additional domains found along the way.
 
-Instances with feeds that have hate speech, apologia for hate speech, transphobic or homophobic content, illegal/copyrighted content, sexism, racism, fascist apologia, excessive/pointless violent content/gore do not fit within the goal of "building a friendly and inviting online community" and as such are blocked.
+Instances with feeds containing unmoderated hate speech, apologia for hate speech, transphobic or homophobic content, illegal/copyrighted content, sexism, racism, fascist apologia, excessive/pointless violent content/gore do not fit within the goal of "building a friendly and inviting online community" and as such are blocked.
 
 The block list is not static, we are happy to re-incorporate servers that are making a good faith effort to be a good neighbor.
 
