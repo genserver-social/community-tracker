@@ -37,7 +37,7 @@ You will get one warning before an action is taken, moderation actions taken wil
 
 ## Longevity / Sustainability
 
-This server is hosted on Digital Ocean. We have weekly application server backups, automated re-provisioning, and point in time snapshots for the database.  We will do our best to provide a 3 month warning in the case of an impending shutdown to give everyone the chance to move to a new home. We will also strive to communicate ahead of time any server updates / upgrades as they happen.
+This server is hosted on Digital Ocean across two service nodes within a VPC. We have weekly application server backups, automated re-provisioning, and point in time snapshots for the database.  We will do our best to provide a 3 month warning in the case of an impending shutdown to give everyone the chance to move to a new home. We will also strive to communicate ahead of time any server updates / upgrades as they happen.
 
 That said: this service is provided for free, without any warranty expressed or implied. If you are adverse to loss we encourage you backup your data via the settings UI. Messages are federated to other servers and are not encrypted. If you have private / business critical communications we recommend using another service. (eg Signal)
 
