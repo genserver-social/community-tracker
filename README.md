@@ -20,7 +20,7 @@ We are all delightful and diverse individuals with a variety if interests. Off t
 * it's not purposefully unkind: don't make fun of other people's work, go make something yourself.
 * use content tags where appropriate (is this a spoiler?, is it a wall of text? could this be NSFW / traumatic?)
 
-You will get one warning before an action is taken, moderation actions taken will be open and available to instance members.
+You will get one warning before an action is taken, moderation actions taken will be as transparent as possible.
 
 
 ### Guidelines
