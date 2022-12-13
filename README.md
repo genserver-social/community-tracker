@@ -1,12 +1,8 @@
 # GenServer Social Community tracker
 
-A place to report issues, share community info, prioritize work, and see what's in progress.
+A place to report issues, share community info, prioritize work, and see what's in progress. Please refer to the CODE_OF_CONDUCT.md and join the fun!
 
 Contributions welcome.
-
-## What is this?
-
-A place to discuss community meta, and maintain history of documents for transparency and consistency.  Please refer to the CODE_OF_CONDUCT.md and join the fun!
 
 > “Hello babies. Welcome to Earth. It's hot in the summer and cold in the winter. It's round and wet and crowded. On the outside, babies, you've got a hundred years here. There's only one rule that I know of, babies- God damn it, you've got to be kind.”
 -- Kurt Vonnegut
