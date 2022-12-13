@@ -18,7 +18,7 @@ We are all delightful and diverse individuals with a variety if interests. Off t
 * if it's poking fun at something, it should be "punching up" (people / organizations in power) not "punching down" (marginalized groups)
 * you are not impersonating brands / other officials / orgs / other things that will get our instance in legal trouble
 * it's not purposefully unkind: don't make fun of other people's work, go make something yourself.
-* use content tags where appropriate (is this a spoiler?, is it a wall of text? could this be borderline NSFW / traumatic?)
+* use content tags where appropriate (is this a spoiler?, is it a wall of text? could this be NSFW / traumatic?)
 
 You will get one warning before an action is taken, moderation actions taken will be open and available to instance members.
 
