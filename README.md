@@ -58,13 +58,13 @@ If you are a user at GenServer Social and have concerns about a domain, please m
 
 
 ## Current Todos:
-- [ ] update to latest version of akkoma
+- [x] update to latest version of akkoma
 - [x] write a better readme
-- [ ] remote status dashboard
+- [x] remote status dashboard [ https://status.genserver.social ]
 - [ ] consider elastic search
 - [x] ~~publish current block list~~ Decided against this for now
 - [x] define a process / considerations around how we're blocking instances
-- [ ] investigate / install new frontend options
+- [x] investigate / install new frontend options
 - [ ] clean up and commit terraform / deployment setup and push it to a repo
 - [ ] automate packer image creation
 - [ ] database failover node?
